@@ -17,7 +17,7 @@ I build and ship production-grade digital products — from enterprise platforms
 I’ve worked across banking, travel, tokenization, and blockchain products, building interfaces and systems that connect product thinking with solid engineering execution.
 
 ## Let's connect
-- Portfolio: `pepe.sainz`
+- Portfolio: `https://pepesainz.dev`
 - GitHub: `github.com/PSainz`
 - LinkedIn: `linkedin.com/in/jlsainz`
 - Email: `sainzpepe@gmail.com`
