@@ -10,7 +10,6 @@ I build and ship production-grade digital products — from enterprise platforms
 - Next.js
 - React Native
 - Tailwind
-- GraphQL
 - Design Systems
 - Web3 / dApps
 
